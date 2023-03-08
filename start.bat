@@ -1,0 +1,1 @@
+"C:\Program Files\Google\Chrome\Application\chrome.exe" --remote-debugging-port=9228 --user-data-dir=E:\dataChrome
